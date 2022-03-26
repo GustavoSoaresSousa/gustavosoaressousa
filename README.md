@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Soares!
 
-- 🔭 Atualmnete trabalho com frond-end.
+- 🔭 Atualmente trabalho com frond-end.
 - 🌱 Estundando ReactJs e Typescript.
 - 📫 Contate-me no e-mail: gustavosoaresdev10@gmail.com
 
