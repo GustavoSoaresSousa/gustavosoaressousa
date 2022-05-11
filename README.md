@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Soares!
 
 - 🔭 Currently i study Frond-end.
-- 🌱 Stydying ReactJs, NodeJs and Typescript.
+- 🌱 Studying ReactJs, NodeJs and Typescript.
 - 📫 Contact me by email: gustavosoaresdev10@gmail.com
 
 <div align="center">
