@@ -1,7 +1,12 @@
 ## Olá! Eu sou o Gustavo Soares!
 
-- 🔭 Currently i study Frond-end.
-- 🌱 Studying ReactJs, NodeJs and Typescript.
+- Front-end usando ReactJs, HTML, CSS, Javascript, Typescript e ASP.net MVC.
+- Backend usando ASP.NET Core, ASP.NET Framework e Node.js.
+- Mobile usando React Native.
+- Relational databases usando MySQL and SQL Server.
+- Non-relational usando MongoDB and Firebase
+- Source Control usando GIT
+- Pacote Office -Word, Excel, Power Point
 - 📫 Contact me by email: gustavosoaresdev10@gmail.com
 
 <div align="center">
