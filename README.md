@@ -5,8 +5,6 @@
 - Relational databases usando MySQL and SQL Server.
 - Non-relational usando MongoDB and Firebase
 - Source Control usando GIT
-- Pacote Office -Word, Excel, Power Point
-- 📫 Contact me by email: gustavosoaresdev10@gmail.com
 
 <div align="center">
   <a href="https://github.com/GustavoSoaresSousa">
